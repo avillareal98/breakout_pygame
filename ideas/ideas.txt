@@ -1,0 +1,26 @@
+Part 1:
+1) Importing and initializing the Pygame library
+2) Defining the colors you will use in your game
+3) Open a new window
+4) The main program loop
+
+Part 2:
+1) Our first class: paddle
+2) Our first object
+
+Part 3:
+1) Adding methods to the Paddle class
+2) Responding to keystroke events
+
+Part 4:
+1) Bouncing algorithm
+2) Ball class
+3) Adding the ball to the game
+4) Collision Detection
+
+Part 5:
+1) The player will score a point if the ball bounces against a brick
+2) The player will lose a life if the ball bounces against the bottom edge of the screen
+3) Both the score and number of lives will be displayed at the top of the screen
+4) A "Level Complete" message will be displayed if all bricks have been removed
+5) A "Game Over" message will be displayed if the number of lives reaches zero
